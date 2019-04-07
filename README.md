@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/oaf-bootstrap-4.svg)](https://www.npmjs.com/package/oaf-bootstrap-4)
+
 # Oaf Bootstrap 4
 
 Accessibility fixes for Bootstrap 4.
