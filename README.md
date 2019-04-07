@@ -34,6 +34,20 @@ Assuming `src/styles/index.scss`:
 ...
 ```
 
+## Fixes
+
+### Restore link underlines
+
+We include a fix for [Bootstrap issue 15304](https://github.com/twbs/bootstrap/issues/15304). That issue is four and a half years old, so don't hold your breath.
+
+From Bootstrap issue 15304:
+
+> For aesthetic reasons, by default Bootstrap links have no underlines, relying instead just on a color difference from surrounding text. This in itself violates WCAG 2.0 "1.4.1 Use of color" http://www.w3.org/TR/WCAG20/#visual-audio-contrast-without-color
+
+### Restore focus outline for tabindex="-1" elements
+
+We include a fix for [Bootstrap issue 28425](https://github.com/twbs/bootstrap/issues/28425).
+
 ## Bootstrap 3
 
 For a similar library for Bootstrap 3, see [bootstrap-hacks](https://github.com/danielnixon/bootstrap-hacks).
