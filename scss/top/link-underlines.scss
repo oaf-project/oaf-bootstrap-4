@@ -1,0 +1,5 @@
+// Restore underline styles for links.
+// See:
+//   https://github.com/twbs/bootstrap/issues/15304
+//   https://www.w3.org/TR/WCAG20/#visual-audio-contrast-without-color
+$link-decoration: underline;

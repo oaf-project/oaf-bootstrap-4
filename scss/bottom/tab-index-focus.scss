@@ -1,0 +1,12 @@
+// Restore visible focus indicator for tabindex="-1" elements.
+// See:
+//   https://github.com/twbs/bootstrap/issues/28425
+//   https://github.com/suitcss/base/commit/bf1d0bedecbc87fb3cf623e49066b4b54fb0a3ed   
+//   https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-visible.html
+//   https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F78
+//   http://www.outlinenone.com/
+//   https://github.com/twbs/bootstrap/blob/master/scss/_reboot.scss#L308-L315
+[tabindex="-1"]:focus {
+  outline: 1px dotted !important;
+  outline: 5px auto -webkit-focus-ring-color !important;
+}

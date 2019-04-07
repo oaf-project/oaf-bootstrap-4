@@ -1,0 +1,8 @@
+{
+  "name": "oaf-bootstrap-4",
+  "version": "0.1.0",
+  "description": "Accessibility fixes for Bootstrap 4.",
+  "repository": "https://github.com/danielnixon/oaf-bootstrap-4",
+  "author": "Daniel Nixon <dan.nixon@gmail.com>",
+  "license": "MIT"
+}
