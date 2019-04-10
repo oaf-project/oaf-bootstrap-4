@@ -1,6 +1,7 @@
 // We assume nav links are unambiguous so don't need underlines.
 // TODO are there other unambiguous types of links that should have
 // underline (re-)removed here?
+// pagination, tabs, pills
 a.nav-link {
   text-decoration: none;
 }
