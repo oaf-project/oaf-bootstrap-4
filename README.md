@@ -1,4 +1,5 @@
 [![npm](https://img.shields.io/npm/v/oaf-bootstrap-4.svg)](https://www.npmjs.com/package/oaf-bootstrap-4)
+[![dependencies Status](https://david-dm.org/oaf-project/oaf-bootstrap-4/status.svg)](https://david-dm.org/oaf-project/oaf-bootstrap-4)
 
 # Oaf Bootstrap 4
 
@@ -10,7 +11,7 @@ Accessibility fixes for Bootstrap 4.
 # yarn
 yarn add --dev oaf-bootstrap-4
 
-#npm
+# npm
 npm install --save-dev oaf-bootstrap-4
 ```
 
@@ -21,6 +22,9 @@ You'll need to recompile Bootstrap's Sass yourself.
 Assuming `src/styles/index.scss`:
 
 ```scss
+// Your Bootstrap variable overrides.
+...
+
 // Accessibility fixes that need to come _before_ the Bootstrap import.
 @import "../../node_modules/oaf-bootstrap-4/scss/top.scss";
 
