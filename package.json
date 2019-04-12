@@ -4,5 +4,15 @@
   "description": "Accessibility fixes for Bootstrap 4.",
   "repository": "https://github.com/danielnixon/oaf-bootstrap-4",
   "author": "Daniel Nixon <dan.nixon@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "sass": "^1.18.0"
+  },
+  "scripts": {
+    "build": "yarn sass example.scss > /dev/null"
+  }
 }

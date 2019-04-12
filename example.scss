@@ -1,0 +1,8 @@
+// Accessibility fixes that need to come _before_ the Bootstrap import.
+@import "./scss/top.scss";
+
+// Bootstrap itself.
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+// Accessibility fixes that need to come _after_ the Bootstrap import.
+@import "./scss/bottom.scss";
