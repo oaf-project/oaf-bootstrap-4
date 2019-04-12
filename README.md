@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/oaf-project/oaf-bootstrap-4.svg?branch=master)](https://travis-ci.org/oaf-project/oaf-bootstrap-4)
 [![npm](https://img.shields.io/npm/v/oaf-bootstrap-4.svg)](https://www.npmjs.com/package/oaf-bootstrap-4)
+
 [![dependencies Status](https://david-dm.org/oaf-project/oaf-bootstrap-4/status.svg)](https://david-dm.org/oaf-project/oaf-bootstrap-4)
+[![devDependencies Status](https://david-dm.org/oaf-project/oaf-bootstrap-4/dev-status.svg)](https://david-dm.org/oaf-project/oaf-bootstrap-4?type=dev)
+[![peerDependencies Status](https://david-dm.org/oaf-project/oaf-bootstrap-4/peer-status.svg)](https://david-dm.org/oaf-project/oaf-bootstrap-4?type=peer)
 
 # Oaf Bootstrap 4
 
