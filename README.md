@@ -56,6 +56,7 @@ From Bootstrap issue 15304:
 
 We include a fix for [Bootstrap issue 28425](https://github.com/twbs/bootstrap/issues/28425).
 
-## Bootstrap 3
-
-For a similar library for Bootstrap 3, see [bootstrap-hacks](https://github.com/danielnixon/bootstrap-hacks).
+## See also
+* [Bootstrap's Accessibility page](https://getbootstrap.com/docs/4.3/getting-started/accessibility/).
+* For a similar library for Bootstrap 3, see [bootstrap-hacks](https://github.com/danielnixon/bootstrap-hacks).
+* [Bootstrap accessibility issues](https://github.com/twbs/bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3Aaccessibility).
