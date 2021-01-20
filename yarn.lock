@@ -103,9 +103,9 @@ readdirp@~3.3.0:
     picomatch "^2.0.7"
 
 sass@^1.20.3:
-  version "1.25.0"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.25.0.tgz#f8bd7dfbb39d6b0305e27704a8ebe637820693f3"
-  integrity sha512-uQMjye0Y70SEDGO56n0j91tauqS9E1BmpKHtiYNQScXDHeaE9uHwNEqQNFf4Bes/3DHMNinB6u79JsG10XWNyw==
+  version "1.32.5"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.32.5.tgz#2882d22ad5748c05fa9bff6c3b0ffbc4f4b9e1dc"
+  integrity sha512-kU1yJ5zUAmPxr7f3q0YXTAd1oZjSR1g3tYyv+xu0HZSl5JiNOaE987eiz7wCUvbm4I9fGWGU2TgApTtcP4GMNQ==
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
 
